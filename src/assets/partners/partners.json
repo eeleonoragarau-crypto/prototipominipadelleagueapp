@@ -1,0 +1,77 @@
+[
+  {
+    "id": "mini",
+    "name": "MINI",
+    "file": "mini.png"
+  },
+  {
+    "id": "head",
+    "name": "HEAD",
+    "file": "head.png"
+  },
+  {
+    "id": "montblanc",
+    "name": "Montblanc",
+    "file": "montblanc.png"
+  },
+  {
+    "id": "mc2",
+    "name": "MC2 Saint Barth",
+    "file": "mc2.png"
+  },
+  {
+    "id": "minifs",
+    "name": "MINI Financial Services",
+    "file": "minifs.png"
+  },
+  {
+    "id": "hublot",
+    "name": "Hublot",
+    "file": "hublot.png"
+  },
+  {
+    "id": "lenovo",
+    "name": "Lenovo",
+    "file": "lenovo.png"
+  },
+  {
+    "id": "alphabet",
+    "name": "Alphabet",
+    "file": "alphabet.png"
+  },
+  {
+    "id": "coolmate",
+    "name": "Cool Mate",
+    "file": "coolmate.png"
+  },
+  {
+    "id": "virgin",
+    "name": "Virgin Active",
+    "file": "virgin.png"
+  },
+  {
+    "id": "forte",
+    "name": "Forte Village Sardinia",
+    "file": "forte.png"
+  },
+  {
+    "id": "motorola",
+    "name": "Motorola",
+    "file": "motorola.png"
+  },
+  {
+    "id": "cortilia",
+    "name": "Cortilia",
+    "file": "cortilia.png"
+  },
+  {
+    "id": "bekind",
+    "name": "Be-Kind",
+    "file": "bekind.png"
+  },
+  {
+    "id": "liquidiv",
+    "name": "Liquid I.V.",
+    "file": "liquidiv.png"
+  }
+]
